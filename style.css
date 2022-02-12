@@ -122,3 +122,17 @@ h1 {
         margin-top: 20px;
     }
 }
+
+
+/* attribution */
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    color: var(--very-dark-blackish-blue);
+    padding: 2rem;
+}
+
+.attribution a {
+    color: var(--moderate-violate);
+}
